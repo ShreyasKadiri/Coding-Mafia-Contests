@@ -3,7 +3,7 @@ Losing weight is tough. Ayush is still trying his best to lose weight. But who d
 of common sense. Ayush is dreaming of food but he is still determined about diet. His mom is going to serve him N dishes. Each dish has its own 
 taste value Taste and dish type Typei. His real world is affecting his dream as well. He is scared that eating will result in weight gain. But here eating 
 dish will only make Ayush gain Taste*i grams. Now he can ask his mom to rearrange order of dishes to be served among same types of dishes. He is wondering, 
-about the minimum weight gain (in grams).
+about the minimum weight gain in grams.
 
 
 Dishes are indexed using 1 base indexing ; which means that the first dish is dish number 1  and not 0.
